@@ -1,0 +1,1 @@
+This model allows users to easily calculate the material requirements energy systems through dynamic material flow analysis (dMFA). The model setup allows for easy adjustments in the input Excel file and StockFlow.py runs the model. See the manual for more detailed instructions
