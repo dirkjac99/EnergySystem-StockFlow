@@ -1,2 +1,0 @@
-# EnergySystem-StockFlow
-This model is part of the Master's Thesis from Dirk Jacobs as part of the Industrial Ecology program at Delft University of Technology and Leiden University. The EnergySystems_StockFlow is a dynamic material flow analysis model (dMFA) that can be used to calculate material flows for energy systems. Model inputs are provided in the EnergySystems_Inputs Excel file. The remain two files are for recreating the plots used in the report.
